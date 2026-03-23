@@ -8,7 +8,7 @@ on:
         required: true
         default: 'langdon'
       agent_description:
-        description: 'Agent Description'
+        description: 'langdon'
         required: true
         default: 'langdon AI Agent'
 
